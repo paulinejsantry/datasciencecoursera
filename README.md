@@ -1,0 +1,2 @@
+## Purpose of This Repository
+To store Coursera class work in order to achieve the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_jhu-data-science_jhu_FTCOF_specializations_country-US-country-CA&campaignid=313639147&adgroupid=121203872804&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=507187136063&hide_mobile_promo&gad_source=1&gclid=CjwKCAjw5v2wBhBrEiwAXDDoJevc1NcJmzabVe2NsVB_1Aui-__tD2-xd6YPVaQ_Mv2KXe49mRtE0RoC4g8QAvD_BwE) certificate
